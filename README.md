@@ -1,3 +1,3 @@
 # bitdegree
 
-This is a test directory that I will use to be able to practice some JavaScript.
+This is a test directory that I will use to be able to teach some JavaScript.
