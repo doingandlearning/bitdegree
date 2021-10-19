@@ -1,3 +1,3 @@
 # bitdegree
 
-This is a new readme.
+This is a test directory that I will use to be able to practice some JavaScript.
